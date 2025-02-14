@@ -1,4 +1,2 @@
-div.items {display:inline-block}
-div.items {margin-left:3%}
-div.items {margin-right:3%}
+div.item {display:inline-block}
 .sectionHeader {text-align: center;}
