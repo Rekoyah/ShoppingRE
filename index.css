@@ -2,4 +2,8 @@ div.item {display:inline-block}
 div.item {margin-left:3%}
 div.item {margin-right:3%}
 div.item {text-align: center;}
+div.item {padding:10px}
+div.items {display:flex}
+div.items {align-items: center;}
+div.items {justify-content: space-around;}
 .sectionHeader {text-align: center;}
